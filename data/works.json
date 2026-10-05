@@ -1,0 +1,560 @@
+[
+  {
+    "id": "oEOojtvp6",
+    "nodeId": "oEOojtvp6",
+    "createdAt": "2025-11-17T21:08:21.378Z",
+    "updatedAt": "2025-11-18T01:19:33.308Z",
+    "slug": "destello",
+    "slugByLocale": {},
+    "draft": false,
+    "fieldData": {
+      "DGZdWBinl": {
+        "type": "number",
+        "value": 5
+      },
+      "lvvRv1y9U": {
+        "type": "string",
+        "value": "Destello",
+        "valueByLocale": {}
+      },
+      "OjJ4ieA4q": {
+        "type": "string",
+        "value": "Destello is a modern Framer Studio template built for professionals who value minimalism and clarity.",
+        "valueByLocale": {}
+      },
+      "j4fQjGAz1": {
+        "type": "image",
+        "value": {
+          "id": "ZXLR3OdMHWvVAqdWWowS6orbak.png",
+          "url": "https://framerusercontent.com/images/ZXLR3OdMHWvVAqdWWowS6orbak.png",
+          "thumbnailUrl": "https://framerusercontent.com/images/ZXLR3OdMHWvVAqdWWowS6orbak.png?scale-down-to=512",
+          "altText": "Destello",
+          "resolution": "auto"
+        }
+      },
+      "GCOouhhNZ": {
+        "type": "formattedText",
+        "value": "<h5>Destello is a modern Framer Studio template built for professionals who value minimalism and clarity. With a clean grid, elegant typography, and smooth subtle motion, it helps you present your work in a way that feels both refined and approachable. Ideal for designers, developers, and studios seeking a sleek online presence.</h5>",
+        "valueByLocale": {}
+      },
+      "EJRMA_0q8": {
+        "type": "date",
+        "value": "2025-11-18T00:00:00.000Z"
+      },
+      "YfaW0rGGr": {
+        "type": "string",
+        "value": "Maya L - Director at Destello",
+        "valueByLocale": {}
+      },
+      "vZ7Z15CWg": {
+        "type": "formattedText",
+        "value": "<p>Agency<br>Editorial</p>",
+        "valueByLocale": {}
+      },
+      "dK7pUTT1e": {
+        "type": "formattedText",
+        "value": "<p>UIUX Design<br>Branding<br>Framer Development<br>AI Automation</p>",
+        "valueByLocale": {}
+      },
+      "LBMbec481": {
+        "type": "string",
+        "value": "destello.framer.website",
+        "valueByLocale": {}
+      },
+      "NJlGxCwpo": {
+        "type": "link",
+        "value": "https://destello.framer.website/",
+        "valueByLocale": {}
+      },
+      "wjhxaKF0h": {
+        "type": "image",
+        "value": {
+          "id": "mH5AhsOpoPLl69GW8XreL2RyUc.png",
+          "url": "https://framerusercontent.com/images/mH5AhsOpoPLl69GW8XreL2RyUc.png",
+          "thumbnailUrl": "https://framerusercontent.com/images/mH5AhsOpoPLl69GW8XreL2RyUc.png?scale-down-to=512",
+          "altText": "Destello",
+          "resolution": "auto"
+        }
+      },
+      "JxWh9yX_N": {
+        "type": "image",
+        "value": {
+          "id": "uBKoM5kteJLHRpnnWPyis6pgHMA.png",
+          "url": "https://framerusercontent.com/images/uBKoM5kteJLHRpnnWPyis6pgHMA.png",
+          "thumbnailUrl": "https://framerusercontent.com/images/uBKoM5kteJLHRpnnWPyis6pgHMA.png?scale-down-to=512",
+          "altText": "Destello",
+          "resolution": "auto"
+        }
+      },
+      "HyfWUMkog": {
+        "type": "image",
+        "value": {
+          "id": "Qh5kB5o8HKNUzbJkiw7WAluZV7g.png",
+          "url": "https://framerusercontent.com/images/Qh5kB5o8HKNUzbJkiw7WAluZV7g.png",
+          "thumbnailUrl": "https://framerusercontent.com/images/Qh5kB5o8HKNUzbJkiw7WAluZV7g.png?scale-down-to=512",
+          "altText": "Destello",
+          "resolution": "auto"
+        }
+      },
+      "zU0m273NF": {
+        "type": "image",
+        "value": {
+          "id": "RNCxCWsbL0FEtv5Rd5jBquWpec.png",
+          "url": "https://framerusercontent.com/images/RNCxCWsbL0FEtv5Rd5jBquWpec.png",
+          "thumbnailUrl": "https://framerusercontent.com/images/RNCxCWsbL0FEtv5Rd5jBquWpec.png?scale-down-to=512",
+          "altText": "Destello",
+          "resolution": "auto"
+        }
+      },
+      "t7UcB9Ral": {
+        "type": "collectionReference",
+        "value": "sienna"
+      }
+    }
+  },
+  {
+    "id": "iadoLH5gD",
+    "nodeId": "iadoLH5gD",
+    "createdAt": "2025-11-17T21:08:21.378Z",
+    "updatedAt": "2025-11-18T01:19:30.337Z",
+    "slug": "zayla",
+    "slugByLocale": {},
+    "draft": false,
+    "fieldData": {
+      "DGZdWBinl": {
+        "type": "number",
+        "value": 4
+      },
+      "lvvRv1y9U": {
+        "type": "string",
+        "value": "Zayla",
+        "valueByLocale": {}
+      },
+      "OjJ4ieA4q": {
+        "type": "string",
+        "value": "A striking and modern Framer template made for independent creatives, developers, artists, and visionaries who want to leave a powerful first impression.",
+        "valueByLocale": {}
+      },
+      "j4fQjGAz1": {
+        "type": "image",
+        "value": {
+          "id": "LorI45uGRevzIjE2JAwxPHsoHx8.png",
+          "url": "https://framerusercontent.com/images/LorI45uGRevzIjE2JAwxPHsoHx8.png",
+          "thumbnailUrl": "https://framerusercontent.com/images/LorI45uGRevzIjE2JAwxPHsoHx8.png?scale-down-to=512",
+          "altText": "Zayla",
+          "resolution": "auto"
+        }
+      },
+      "GCOouhhNZ": {
+        "type": "formattedText",
+        "value": "<h5>Zayla is a dramatic yet refined Framer template designed for those who embrace bold visuals and high-impact storytelling. Whether you’re a creative designer, digital artist, innovative developer, or any professional craving a daring web presence, this versatile portfolio template empowers you to showcase your talent with style and confidence.</h5><h5>With a sleek dark aesthetic, vibrant imagery, and engaging layout, Zayla helps you highlight your work, share your mission, connect through compelling case studies, and convert visitors into clients. Perfect for creatives who want to stand out with a portfolio that feels fearless, sophisticated, and unforgettable.</h5>",
+        "valueByLocale": {}
+      },
+      "EJRMA_0q8": {
+        "type": "date",
+        "value": "2025-11-18T00:00:00.000Z"
+      },
+      "YfaW0rGGr": {
+        "type": "string",
+        "value": "Zayla Monroe",
+        "valueByLocale": {}
+      },
+      "vZ7Z15CWg": {
+        "type": "formattedText",
+        "value": "<p>Personal<br>Animated<br>Graphic Design</p>",
+        "valueByLocale": {}
+      },
+      "dK7pUTT1e": {
+        "type": "formattedText",
+        "value": "<p>Web Development<br>Content Creation</p>",
+        "valueByLocale": {}
+      },
+      "LBMbec481": {
+        "type": "string",
+        "value": "zaylamonroe.framer.website",
+        "valueByLocale": {}
+      },
+      "NJlGxCwpo": {
+        "type": "link",
+        "value": "https://zaylamonroe.framer.website/",
+        "valueByLocale": {}
+      },
+      "wjhxaKF0h": {
+        "type": "image",
+        "value": {
+          "id": "OqAdQuoi6VyD7dQBXTttfCcXGr0.png",
+          "url": "https://framerusercontent.com/images/OqAdQuoi6VyD7dQBXTttfCcXGr0.png",
+          "thumbnailUrl": "https://framerusercontent.com/images/OqAdQuoi6VyD7dQBXTttfCcXGr0.png?scale-down-to=512",
+          "altText": "Zayla",
+          "resolution": "auto"
+        }
+      },
+      "JxWh9yX_N": {
+        "type": "image",
+        "value": {
+          "id": "4RhS7yPXqAnX7oHQzraUr6lU95I.png",
+          "url": "https://framerusercontent.com/images/4RhS7yPXqAnX7oHQzraUr6lU95I.png",
+          "thumbnailUrl": "https://framerusercontent.com/images/4RhS7yPXqAnX7oHQzraUr6lU95I.png?scale-down-to=512",
+          "altText": "Zayla",
+          "resolution": "auto"
+        }
+      },
+      "HyfWUMkog": {
+        "type": "image",
+        "value": {
+          "id": "omhP5vf50XDxzbIH8hTVLlSJRc.png",
+          "url": "https://framerusercontent.com/images/omhP5vf50XDxzbIH8hTVLlSJRc.png",
+          "thumbnailUrl": "https://framerusercontent.com/images/omhP5vf50XDxzbIH8hTVLlSJRc.png?scale-down-to=512",
+          "altText": "Zayla",
+          "resolution": "auto"
+        }
+      },
+      "zU0m273NF": {
+        "type": "image",
+        "value": {
+          "id": "WT3n6IqckZ0sQ8NUsL4ElfXXrQ.png",
+          "url": "https://framerusercontent.com/images/WT3n6IqckZ0sQ8NUsL4ElfXXrQ.png",
+          "thumbnailUrl": "https://framerusercontent.com/images/WT3n6IqckZ0sQ8NUsL4ElfXXrQ.png?scale-down-to=512",
+          "altText": "Zayla",
+          "resolution": "auto"
+        }
+      },
+      "t7UcB9Ral": {
+        "type": "collectionReference",
+        "value": "destello"
+      }
+    }
+  },
+  {
+    "id": "h8ENtYt4J",
+    "nodeId": "h8ENtYt4J",
+    "createdAt": "2025-11-17T21:08:21.378Z",
+    "updatedAt": "2025-11-18T01:19:26.603Z",
+    "slug": "veon",
+    "slugByLocale": {},
+    "draft": false,
+    "fieldData": {
+      "DGZdWBinl": {
+        "type": "number",
+        "value": 3
+      },
+      "lvvRv1y9U": {
+        "type": "string",
+        "value": "Veon",
+        "valueByLocale": {}
+      },
+      "OjJ4ieA4q": {
+        "type": "string",
+        "value": "Veon is a high-quality, minimalist Framer template designed for clothing brands and e-commerce businesses.",
+        "valueByLocale": {}
+      },
+      "j4fQjGAz1": {
+        "type": "image",
+        "value": {
+          "id": "fl7dEAIvWqIK6fpl2FzvxgVgo.png",
+          "url": "https://framerusercontent.com/images/fl7dEAIvWqIK6fpl2FzvxgVgo.png",
+          "thumbnailUrl": "https://framerusercontent.com/images/fl7dEAIvWqIK6fpl2FzvxgVgo.png?scale-down-to=512",
+          "altText": "Veon",
+          "resolution": "auto"
+        }
+      },
+      "GCOouhhNZ": {
+        "type": "formattedText",
+        "value": "<h5>With seamless Shopify integration via Framercommerce, it’s optimized for speed, conversions, and an effortless shopping experience.</h5><h5>Elevate Your Clothing Brand with Veon. Veon is a sleek and modern Framer template crafted for fashion-focused e-commerce stores.</h5><h5>Designed for high performance and seamless user experience, it integrates effortlessly with Shopify via the Framercommerce plugin, ensuring fast load times and a smooth, mobile-optimized shopping journey.</h5>",
+        "valueByLocale": {}
+      },
+      "EJRMA_0q8": {
+        "type": "date",
+        "value": "2025-11-18T00:00:00.000Z"
+      },
+      "YfaW0rGGr": {
+        "type": "string",
+        "value": "Fabian Clark - CO at Veon",
+        "valueByLocale": {}
+      },
+      "vZ7Z15CWg": {
+        "type": "formattedText",
+        "value": "<p>Fashion<br>E-Commerce<br>Store</p>",
+        "valueByLocale": {}
+      },
+      "dK7pUTT1e": {
+        "type": "formattedText",
+        "value": "<p>E-Commerce<br>UIUX Design<br>Shopify<br>Framer Development</p>",
+        "valueByLocale": {}
+      },
+      "LBMbec481": {
+        "type": "string",
+        "value": "veonn.framer.website",
+        "valueByLocale": {}
+      },
+      "NJlGxCwpo": {
+        "type": "link",
+        "value": "https://veonn.framer.website/?via=zaidkhan3419",
+        "valueByLocale": {}
+      },
+      "wjhxaKF0h": {
+        "type": "image",
+        "value": {
+          "id": "Ct75shsxtYxdaGkq3TJf9jLjc2I.png",
+          "url": "https://framerusercontent.com/images/Ct75shsxtYxdaGkq3TJf9jLjc2I.png",
+          "thumbnailUrl": "https://framerusercontent.com/images/Ct75shsxtYxdaGkq3TJf9jLjc2I.png?scale-down-to=512",
+          "altText": "Veon",
+          "resolution": "auto"
+        }
+      },
+      "JxWh9yX_N": {
+        "type": "image",
+        "value": {
+          "id": "LjRK779lEuQCwPemKYjGvDoKhs.png",
+          "url": "https://framerusercontent.com/images/LjRK779lEuQCwPemKYjGvDoKhs.png",
+          "thumbnailUrl": "https://framerusercontent.com/images/LjRK779lEuQCwPemKYjGvDoKhs.png?scale-down-to=512",
+          "altText": "Veon",
+          "resolution": "auto"
+        }
+      },
+      "HyfWUMkog": {
+        "type": "image",
+        "value": {
+          "id": "yvYt82qQzCZ1DcP2cdPGJOSe4.png",
+          "url": "https://framerusercontent.com/images/yvYt82qQzCZ1DcP2cdPGJOSe4.png",
+          "thumbnailUrl": "https://framerusercontent.com/images/yvYt82qQzCZ1DcP2cdPGJOSe4.png?scale-down-to=512",
+          "altText": "Veon",
+          "resolution": "auto"
+        }
+      },
+      "zU0m273NF": {
+        "type": "image",
+        "value": {
+          "id": "kInZL2wb1yfZhCKJKTgB3HjsTg.png",
+          "url": "https://framerusercontent.com/images/kInZL2wb1yfZhCKJKTgB3HjsTg.png",
+          "thumbnailUrl": "https://framerusercontent.com/images/kInZL2wb1yfZhCKJKTgB3HjsTg.png?scale-down-to=512",
+          "altText": "Veon",
+          "resolution": "auto"
+        }
+      },
+      "t7UcB9Ral": {
+        "type": "collectionReference",
+        "value": "zayla"
+      }
+    }
+  },
+  {
+    "id": "GHsrA2Zcr",
+    "nodeId": "GHsrA2Zcr",
+    "createdAt": "2025-11-17T21:08:21.378Z",
+    "updatedAt": "2025-11-18T01:19:22.969Z",
+    "slug": "glidex",
+    "slugByLocale": {},
+    "draft": false,
+    "fieldData": {
+      "DGZdWBinl": {
+        "type": "number",
+        "value": 2
+      },
+      "lvvRv1y9U": {
+        "type": "string",
+        "value": "Glidex",
+        "valueByLocale": {}
+      },
+      "OjJ4ieA4q": {
+        "type": "string",
+        "value": "A sleek template for video producers and filmmakers to showcase their work.",
+        "valueByLocale": {}
+      },
+      "j4fQjGAz1": {
+        "type": "image",
+        "value": {
+          "id": "Gk7AVadR28XRmbOy3fn6DnH16c.png",
+          "url": "https://framerusercontent.com/images/Gk7AVadR28XRmbOy3fn6DnH16c.png",
+          "thumbnailUrl": "https://framerusercontent.com/images/Gk7AVadR28XRmbOy3fn6DnH16c.png?scale-down-to=512",
+          "altText": "Glidex",
+          "resolution": "auto"
+        }
+      },
+      "GCOouhhNZ": {
+        "type": "formattedText",
+        "value": "<h5>Glidex is a modern and dynamic template for video producers and filmmakers, featuring a stylish bento layout that organizes your portfolio into sleek, manageable sections. With its perfect 100 score on PageSpeed Insights, Glidex ensures lightning-fast performance and a seamless user experience, making it the ideal choice for showcasing your creative work with impact and efficiency.</h5>",
+        "valueByLocale": {}
+      },
+      "EJRMA_0q8": {
+        "type": "date",
+        "value": "2025-11-18T00:00:00.000Z"
+      },
+      "YfaW0rGGr": {
+        "type": "string",
+        "value": "Ama Jean - Marketing lead at Glidex",
+        "valueByLocale": {}
+      },
+      "vZ7Z15CWg": {
+        "type": "formattedText",
+        "value": "<p>Videography<br>Production<br>Studio</p>",
+        "valueByLocale": {}
+      },
+      "dK7pUTT1e": {
+        "type": "formattedText",
+        "value": "<p>Web design<br>Branding<br>SEO</p>",
+        "valueByLocale": {}
+      },
+      "LBMbec481": {
+        "type": "string",
+        "value": "glidex.framer.website",
+        "valueByLocale": {}
+      },
+      "NJlGxCwpo": {
+        "type": "link",
+        "value": "https://glidex.framer.website/?via=zaidkhan3419",
+        "valueByLocale": {}
+      },
+      "wjhxaKF0h": {
+        "type": "image",
+        "value": {
+          "id": "CLZhCPMlL2EPY75pz7qo4vhGGzw.png",
+          "url": "https://framerusercontent.com/images/CLZhCPMlL2EPY75pz7qo4vhGGzw.png",
+          "thumbnailUrl": "https://framerusercontent.com/images/CLZhCPMlL2EPY75pz7qo4vhGGzw.png?scale-down-to=512",
+          "altText": "Glidex",
+          "resolution": "auto"
+        }
+      },
+      "JxWh9yX_N": {
+        "type": "image",
+        "value": {
+          "id": "PVMr2ShgT1v08X9fNPpsbdRQwmg.png",
+          "url": "https://framerusercontent.com/images/PVMr2ShgT1v08X9fNPpsbdRQwmg.png",
+          "thumbnailUrl": "https://framerusercontent.com/images/PVMr2ShgT1v08X9fNPpsbdRQwmg.png?scale-down-to=512",
+          "altText": "Glidex",
+          "resolution": "auto"
+        }
+      },
+      "HyfWUMkog": {
+        "type": "image",
+        "value": {
+          "id": "gNoQ8d2qJPVPFYHjAG1qVvO6yfg.png",
+          "url": "https://framerusercontent.com/images/gNoQ8d2qJPVPFYHjAG1qVvO6yfg.png",
+          "thumbnailUrl": "https://framerusercontent.com/images/gNoQ8d2qJPVPFYHjAG1qVvO6yfg.png?scale-down-to=512",
+          "altText": "Glidex",
+          "resolution": "auto"
+        }
+      },
+      "zU0m273NF": {
+        "type": "image"
+      },
+      "t7UcB9Ral": {
+        "type": "collectionReference",
+        "value": "veon"
+      }
+    }
+  },
+  {
+    "id": "FvPCNDLFh",
+    "nodeId": "FvPCNDLFh",
+    "createdAt": "2025-11-17T21:08:21.378Z",
+    "updatedAt": "2025-11-18T01:19:18.962Z",
+    "slug": "sienna",
+    "slugByLocale": {},
+    "draft": false,
+    "fieldData": {
+      "DGZdWBinl": {
+        "type": "number",
+        "value": 1
+      },
+      "lvvRv1y9U": {
+        "type": "string",
+        "value": "Sienna",
+        "valueByLocale": {}
+      },
+      "OjJ4ieA4q": {
+        "type": "string",
+        "value": "Sienna is a premium Framer template designed for photographers and freelancers who want a stunning online presence without any coding or design skills.",
+        "valueByLocale": {}
+      },
+      "j4fQjGAz1": {
+        "type": "image",
+        "value": {
+          "id": "6sb1JjYXS6TV4Lk4wuybSLhLYvA.png",
+          "url": "https://framerusercontent.com/images/6sb1JjYXS6TV4Lk4wuybSLhLYvA.png",
+          "thumbnailUrl": "https://framerusercontent.com/images/6sb1JjYXS6TV4Lk4wuybSLhLYvA.png?scale-down-to=512",
+          "altText": "Sienna",
+          "resolution": "auto"
+        }
+      },
+      "GCOouhhNZ": {
+        "type": "formattedText",
+        "value": "<h5>Showcase your talent with Sienna – a refined Framer template crafted for photographers and freelancers. With a sleek, modern layout, it highlights your portfolio, services, and client stories, ensuring your work stands out effortlessly.</h5><h5>Sienna helps photographers, freelancers and creatives launch a professional, polished website quickly—so you can focus on your craft while your site does the rest.</h5>",
+        "valueByLocale": {}
+      },
+      "EJRMA_0q8": {
+        "type": "date",
+        "value": "2025-11-18T00:00:00.000Z"
+      },
+      "YfaW0rGGr": {
+        "type": "string",
+        "value": "Sienna",
+        "valueByLocale": {}
+      },
+      "vZ7Z15CWg": {
+        "type": "formattedText",
+        "value": "<p>Photography<br>Portfolio</p>",
+        "valueByLocale": {}
+      },
+      "dK7pUTT1e": {
+        "type": "formattedText",
+        "value": "<p>Web design<br>Branding<br>Framer development</p>",
+        "valueByLocale": {}
+      },
+      "LBMbec481": {
+        "type": "string",
+        "value": "sienna.framer.photos",
+        "valueByLocale": {}
+      },
+      "NJlGxCwpo": {
+        "type": "link",
+        "value": "https://sienna.framer.photos/?via=zaidkhan3419",
+        "valueByLocale": {}
+      },
+      "wjhxaKF0h": {
+        "type": "image",
+        "value": {
+          "id": "9sNfeTBgRTze901nMrqPY10.jpg",
+          "url": "https://framerusercontent.com/images/9sNfeTBgRTze901nMrqPY10.jpg",
+          "thumbnailUrl": "https://framerusercontent.com/images/9sNfeTBgRTze901nMrqPY10.jpg?scale-down-to=512",
+          "altText": "Sienna",
+          "resolution": "auto"
+        }
+      },
+      "JxWh9yX_N": {
+        "type": "image",
+        "value": {
+          "id": "9mrWsbxW5ZpThK7bQuYFfE28I.png",
+          "url": "https://framerusercontent.com/images/9mrWsbxW5ZpThK7bQuYFfE28I.png",
+          "thumbnailUrl": "https://framerusercontent.com/images/9mrWsbxW5ZpThK7bQuYFfE28I.png?scale-down-to=512",
+          "altText": "Sienna",
+          "resolution": "auto"
+        }
+      },
+      "HyfWUMkog": {
+        "type": "image",
+        "value": {
+          "id": "Nv6yi8vPJw2DtFneTOcSqKxy4eg.png",
+          "url": "https://framerusercontent.com/images/Nv6yi8vPJw2DtFneTOcSqKxy4eg.png",
+          "thumbnailUrl": "https://framerusercontent.com/images/Nv6yi8vPJw2DtFneTOcSqKxy4eg.png?scale-down-to=512",
+          "altText": "Sienna",
+          "resolution": "auto"
+        }
+      },
+      "zU0m273NF": {
+        "type": "image",
+        "value": {
+          "id": "oll8pq7yV1u0vqbmAzgOHcdwfw.png",
+          "url": "https://framerusercontent.com/images/oll8pq7yV1u0vqbmAzgOHcdwfw.png",
+          "thumbnailUrl": "https://framerusercontent.com/images/oll8pq7yV1u0vqbmAzgOHcdwfw.png?scale-down-to=512",
+          "altText": "Sienna",
+          "resolution": "auto"
+        }
+      },
+      "t7UcB9Ral": {
+        "type": "collectionReference",
+        "value": "glidex"
+      }
+    }
+  }
+]

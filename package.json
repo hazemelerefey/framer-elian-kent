@@ -1,0 +1,27 @@
+{
+  "name": "framer-elian-kent",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Elian Kent – Design Portfolio extracted from Framer with 100% motion parity, Next.js 14, and static archive. Designed by Hazem Elerefy.",
+  "author": {
+    "name": "Hazem Elerefy",
+    "url": "https://github.com/hazemelerefey"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "^14.2.15",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20.16.11",
+    "@types/react": "^18.3.11",
+    "@types/react-dom": "^18.3.0",
+    "typescript": "^5.6.3"
+  }
+}
